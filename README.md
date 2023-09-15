@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankur</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://github.com/AnkurMishra123/AnkurMishra123/assets/73573971/73cf917f-5eac-4ed0-8549-86d10485cbef"
+>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurmishra123&label=Profile%20views&color=0e75b6&style=flat" alt="ankurmishra123" /> </p>
 
 - 📫 How to reach me **ankurmishra0043@gmail.com**
