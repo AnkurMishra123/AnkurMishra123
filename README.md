@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NqGND7K6zQEgzzlCQm1-s9SzWc3CwelU/view?usp=drive_link](https://drive.google.com/file/d/1NqGND7K6zQEgzzlCQm1-s9SzWc3CwelU/view?usp=drive_link)
 
-- ⚡ Fun fact **I think I am adicted to Cold Drink**
+- ⚡ Fun fact **I think I am addicted to Cold Drink**
 <br>
 
 <h3 align="left">Connect with me:</h3>
