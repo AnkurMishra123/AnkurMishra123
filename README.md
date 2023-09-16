@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankur</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A passionate FrontEnd developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/AnkurMishra123/AnkurMishra123/assets/73573971/55de888c-a48d-41f3-bd7c-7c130f154d11">
 
@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1NqGND7K6zQEgzzlCQm1-s9SzWc3CwelU/view?usp=drive_link](https://drive.google.com/file/d/1NqGND7K6zQEgzzlCQm1-s9SzWc3CwelU/view?usp=drive_link)
 
-- ⚡ Fun fact **I think I am adicted to Coldrink**
+- ⚡ Fun fact **I think I am adicted to Cold Drink**
 <br>
 
 <h3 align="left">Connect with me:</h3>
