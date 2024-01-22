@@ -30,7 +30,7 @@
 
 <h3 align="left">LeetCode Stats :</h3>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=KnlnKS&theme=dark)](https://github.com/Ankur_0152/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Ankur_0152&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
 
