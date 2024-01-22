@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/@ankur_0152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/@ankur_0152" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ankur-mishra-338613204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankur-mishra-338613204" height="30" width="40" /></a>
-<a href="https:/instagram.com/cryptic_dusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https:/instagram.com/cryptic_dusk" height="30" width="40" /></a>
+<a href="https://www.instagram.com/cryptic_dusk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/cryptic_dusk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC0kuLMOboAkevyEC0WzMVrQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UC0kuLMOboAkevyEC0WzMVrQ" height="30" width="40" /></a>
 <a href="https://leetcode.com/Ankur_0152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/Ankur_0152/" height="30" width="40" /></a>
 </p>
